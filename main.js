@@ -11,17 +11,17 @@ async function main() {
         {
             type: "input",
             name: "q1",
-            message: "Enter First Number",
+            message: "Enter Your First Number",
         },
         {
             type: "input",
             name: "q2",
-            message: "Enter Second Number",
+            message: "Enter Your Second Number",
         },
         {
             type: "input",
             name: "q3",
-            message: "Enter Third Number",
+            message: "Enter Your Third Number",
         },
         {
             type: "list",
